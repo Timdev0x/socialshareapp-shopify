@@ -17,7 +17,7 @@
         <script type="text/javascript">
             ShopifyApp.init({
                 forceRedirect: true,
-                apiKey: '21b28b329b0663d87210b00a8a946229',
+                apiKey: '982h8b329b0663d87210b00a8a946229',
                 shopOrigin: 'https://<?php echo $shop; ?>'
             });
             ShopifyApp.Bar.loadingOff();
